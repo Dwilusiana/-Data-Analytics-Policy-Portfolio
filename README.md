@@ -4,6 +4,10 @@ This repository presents a structured data analytics portfolio focused on policy
 The projects demonstrate how real-world data can be transformed into insights for monitoring, forecasting, and early warning across public and private sector contexts.
 
 ---
+## 🔗 Quick Links
+- [Sentiment Analysis](01_sentiment_analysis)
+- [Inflation Forecasting](02_forecasting)
+- [Anomaly Detection](03_anomaly_detection)
 
 ## 🎯 Portfolio Overview
 
