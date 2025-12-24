@@ -2,8 +2,16 @@ pandas
 numpy
 matplotlib
 seaborn
+
 scikit-learn
 statsmodels
-transformers
-torch
+prophet
 
+nltk
+scipy
+
+jupyter
+ipykernel
+
+tqdm
+requests
