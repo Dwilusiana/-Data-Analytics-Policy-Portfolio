@@ -77,3 +77,11 @@ No proprietary or restricted data is used.
 ## 👤 Dwi Lusiana
 
 This portfolio was developed as part of a structured practice track in policy and economic analytics, emphasizing interpretability, contextual understanding, and decision-ready insights.
+
+
+## ▶️ How to Run
+All notebooks are designed to run on Google Colab.
+
+To install dependencies locally:
+pip install -r requirements.txt
+
