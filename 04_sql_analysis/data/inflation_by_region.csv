@@ -1,1 +1,13 @@
-
+year,month,region,inflation_rate
+2023,1,DKI Jakarta,0.34
+2023,1,Jawa Barat,0.29
+2023,1,Jawa Tengah,0.31
+2023,2,DKI Jakarta,0.16
+2023,2,Jawa Barat,0.21
+2023,2,Jawa Tengah,0.19
+2024,1,DKI Jakarta,0.52
+2024,1,Jawa Barat,0.48
+2024,1,Jawa Tengah,0.45
+2025,1,DKI Jakarta,-0.76
+2025,1,Jawa Barat,-0.62
+2025,1,Jawa Tengah,-0.58
