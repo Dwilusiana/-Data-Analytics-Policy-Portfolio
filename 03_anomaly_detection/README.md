@@ -1,1 +1,19 @@
-This folder contains anomaly detection and early warning analysis projects.
+# Inflation Anomaly Detection
+
+## Problem Context
+Sudden deviations in inflation may signal economic shocks or temporary disruptions that require closer monitoring.
+
+## Data Source
+- Monthly inflation data from Badan Pusat Statistik (BPS)
+
+## Methodology
+- Statistical anomaly detection using Z-score
+- Visualization of abnormal movements
+
+## Key Outputs
+- Identified anomaly periods
+- Visual early warning signals
+- Contextual interpretation
+
+## Key Insight
+Detected anomalies highlight periods of heightened volatility that warrant attention, while subsequent normalization suggests non-persistent shocks.
