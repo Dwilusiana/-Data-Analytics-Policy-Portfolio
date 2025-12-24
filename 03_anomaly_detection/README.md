@@ -5,6 +5,8 @@ Sudden deviations in inflation may signal economic shocks or temporary disruptio
 
 ## Data Source
 - Monthly inflation data from Badan Pusat Statistik (BPS)
+- Publicly available official statistics
+- Used for anomaly detection and monitoring analysis
 
 ## Methodology
 - Statistical anomaly detection using Z-score
