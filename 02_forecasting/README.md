@@ -5,6 +5,8 @@ Inflation monitoring requires short-term forecasting and an understanding of unc
 
 ## Data Source
 - Monthly inflation data from Badan Pusat Statistik (BPS)
+- Publicly available official statistics
+- Data used for analytical and educational purposes
 
 ## Methodology
 - Time series decomposition
