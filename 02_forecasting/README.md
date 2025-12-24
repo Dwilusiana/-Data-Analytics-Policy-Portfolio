@@ -20,3 +20,8 @@ Inflation monitoring requires short-term forecasting and an understanding of unc
 
 ## Key Insight
 While inflation exhibits short-term volatility, forecasts suggest reversion toward historical ranges, indicating temporary rather than structural pressures.
+
+## Key Result — Inflation Forecast
+
+![ARIMA Forecast](images/arima_forecasting.png)
+
