@@ -1,89 +1,79 @@
 # Data Analytics Portfolio — Policy & Economic Analytics Track
 
-This repository presents a collection of data analytics projects focused on policy-relevant and decision-oriented analysis.  
-The portfolio demonstrates how data can be transformed into insights that support monitoring, forecasting, and early warning across public and private sector contexts.
+This repository presents a structured data analytics portfolio focused on policy-relevant and decision-oriented analysis.  
+The projects demonstrate how real-world data can be transformed into insights for monitoring, forecasting, and early warning across public and private sector contexts.
 
 ---
 
-## Portfolio Objective
+## 🎯 Portfolio Overview
 
-The primary objective of this portfolio is to showcase analytical thinking, methodological rigor, and structured storytelling in addressing economic and social data problems.  
-Rather than focusing solely on technical complexity, the projects emphasize interpretability, relevance, and implications for decision-making.
+The portfolio consists of three end-to-end analytics projects:
 
----
+1. **Economic & Financial Sentiment Analysis**  
+2. **Inflation Forecasting (Time Series Analysis)**  
+3. **Inflation Anomaly Detection (Early Warning Signals)**  
 
-## Project Overview
-
-### 1. Economic & Financial Sentiment Analysis
-**Folder:** `01_sentiment_analysis`
-
-This project analyzes public sentiment related to economic issues using both baseline lexicon-based methods and advanced transformer-based models (IndoBERT).
-
-Key highlights:
-- Problem framing oriented toward public perception and risk monitoring
-- Comparison between simple and advanced NLP methods
-- Interpretation of sentiment dynamics and methodological trade-offs
-- Policy-relevant insights without institution-specific bias
+Each project follows a consistent analytical workflow:
+problem framing → data preparation → modeling → interpretation → decision-oriented insights.
 
 ---
 
-### 2. Inflation Forecasting (Time Series Analysis)
-**Folder:** `02_forecasting`
+## 📁 Project Directory
 
-This project focuses on forecasting monthly inflation (month-to-month) using official statistics from BPS.
-
-Key highlights:
-- Careful data preparation from official statistical sources
-- Time series decomposition and stationarity assessment
-- ARIMA-based short-term forecasting with uncertainty intervals
-- Interpretation of forecasts in the context of risk and uncertainty
+### 1️⃣ Sentiment Analysis
+- **Folder:** `01_sentiment_analysis`
+- **Focus:** Public sentiment on economic issues using NLP
+- **Methods:** Baseline sentiment analysis and transformer-based models (IndoBERT)
+- **Outputs:** Notebooks, cleaned datasets, insight summaries
 
 ---
 
-### 3. Inflation Anomaly Detection (Early Warning)
-**Folder:** `03_anomaly_detection`
-
-This project identifies abnormal inflation movements using statistical anomaly detection techniques.
-
-Key highlights:
-- Z-score–based detection of inflation deviations
-- Visualization of anomalies as early warning signals
-- Integration with forecasting results to distinguish shocks from trends
-- Insight generation for monitoring and decision support
+### 2️⃣ Inflation Forecasting
+- **Folder:** `02_forecasting`
+- **Focus:** Monthly inflation forecasting (month-to-month)
+- **Methods:** Time series decomposition, stationarity testing, ARIMA
+- **Outputs:** Forecast results, uncertainty intervals, executive summary  
+- **Executive summary:** Available in the `reports/` folder
 
 ---
 
-## Tools & Methods
-
-- Python (pandas, matplotlib, statsmodels)
-- Natural Language Processing (baseline methods, IndoBERT)
-- Time Series Analysis (decomposition, ARIMA)
-- Statistical Anomaly Detection
-- Data visualization and structured reporting
+### 3️⃣ Anomaly Detection
+- **Folder:** `03_anomaly_detection`
+- **Focus:** Identifying abnormal inflation movements as early warning signals
+- **Methods:** Statistical anomaly detection (Z-score)
+- **Outputs:** Anomaly flags, visualizations, interpretative insights
 
 ---
 
-## Analytical Approach
+## 📊 Reports & Dashboards
 
-Across all projects, the analytical approach follows a consistent structure:
-1. Problem framing and objective definition
-2. Data validation and preparation
-3. Method selection based on interpretability and relevance
-4. Insight generation with decision-making implications
+- **Folder:** `reports/`  
+  Contains executive summaries and reporting outputs derived from individual projects.
 
-This approach reflects how analytics is applied in real-world policy and business environments.
+- **Folder:** `dashboards/`  
+  Reserved for visualization and dashboard artifacts.
 
 ---
 
-## Intended Audience
+## 🔧 Tools & Environment
 
-This portfolio is designed to be relevant for:
-- Public sector and regulatory institutions
-- Economic and policy research teams
-- Corporate strategy, risk, and analytics functions
+- Python (pandas, numpy, matplotlib, statsmodels)
+- NLP & Transformer models (IndoBERT)
+- Time series analysis and statistical methods
+- Google Colab for execution and experimentation
 
 ---
 
-## Author
+## 📌 Data Sources & Legality
 
-This portfolio was developed as part of a structured learning and practice track in policy and economic analytics.
+All datasets used in this portfolio are obtained from publicly available and legal sources, including:
+- Official statistics from Badan Pusat Statistik (BPS)
+- Publicly accessible news and media sources
+
+No proprietary or restricted data is used.
+
+---
+
+## 👤 Dwi Lusiana
+
+This portfolio was developed as part of a structured practice track in policy and economic analytics, emphasizing interpretability, contextual understanding, and decision-ready insights.
