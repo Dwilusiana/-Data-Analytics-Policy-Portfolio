@@ -22,4 +22,4 @@ Detected anomalies highlight periods of heightened volatility that warrant atten
 
 ## Key Result — Inflation Forecast
 
-![Anomaly](Anomaly_Detection_(z-core).png)
+![Anomaly](images/Anomaly_Detection_(z-core).png)
