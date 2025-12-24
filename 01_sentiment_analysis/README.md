@@ -4,8 +4,9 @@
 Public perception plays an important role in shaping economic expectations and policy credibility. This project analyzes sentiment in public discourse related to economic issues.
 
 ## Data Source
-- Online news articles and public media sources
-- Publicly accessible and legally obtained data
+- Publicly available online news and media sources
+- Data collected from legal and open-access platforms
+- No private or restricted data used
 
 ## Methodology
 - Text preprocessing and cleaning
