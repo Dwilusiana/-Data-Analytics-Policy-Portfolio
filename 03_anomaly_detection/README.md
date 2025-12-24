@@ -19,3 +19,7 @@ Sudden deviations in inflation may signal economic shocks or temporary disruptio
 
 ## Key Insight
 Detected anomalies highlight periods of heightened volatility that warrant attention, while subsequent normalization suggests non-persistent shocks.
+
+## Key Result — Inflation Forecast
+
+![Anomaly Detenction](images/Anomaly_Detection_(z-core).png)
