@@ -50,3 +50,10 @@ observed regions, suggesting easing short-term price pressure.
 Limited divergence between regions indicates national-level drivers dominate
 current inflation dynamics.
 Continuous monitoring is recommended to detect potential reversal signals.
+
+## Live Dashboard Preview
+
+![Inflation Dashboard](dashboard_preview.png)
+
+**Live interactive dashboard:**  
+https://dwilusiana--data-analytics-policy-dashboardsstreamlitapp-2xq2vd.streamlit.app/
