@@ -44,3 +44,22 @@ fig_bar = px.bar(
     text_auto=True
 )
 st.plotly_chart(fig_bar, use_container_width=True)
+
+
+st.markdown("### Executive Insights")
+
+st.markdown("""
+**Key Observations:**
+- Monthly inflation shows a declining trend across regions during the selected period.
+- Regional inflation levels remain relatively close, indicating synchronized price movement.
+
+**Potential Implications:**
+- The declining trend may signal easing price pressures in the short term.
+- Limited regional divergence suggests national-level factors dominate inflation dynamics.
+
+**Recommended Actions:**
+- Continue monitoring monthly inflation for early signs of reversal.
+- Complement this view with commodity-level or sectoral inflation indicators.
+""")
+
+
