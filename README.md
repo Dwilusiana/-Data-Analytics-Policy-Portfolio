@@ -96,3 +96,9 @@ All notebooks are designed to run on Google Colab.
 To install dependencies locally:
 pip install -r requirements.txt
 
+## 📊 Live Interactive Dashboard
+
+Explore the inflation monitoring dashboard deployed on Streamlit:
+
+https://dwilusiana--data-analytics-policy-dashboardsstreamlitapp-2xq2vd.streamlit.app/
+
