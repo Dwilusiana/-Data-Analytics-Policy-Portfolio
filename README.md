@@ -77,6 +77,13 @@ All datasets used in this portfolio are obtained from publicly available and leg
 No proprietary or restricted data is used.
 
 ---
+## 📊 Interactive Dashboard
+
+An interactive Streamlit dashboard is included to demonstrate data
+visualization and monitoring capabilities.
+
+- Location: `dashboards/streamlit`
+- Focus: Inflation monitoring by region and time
 
 ## 👤 Dwi Lusiana
 
