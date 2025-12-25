@@ -7,7 +7,7 @@ st.set_page_config(page_title="Inflation Dashboard", layout="wide")
 st.title("Inflation Monitoring Dashboard")
 
 # Load data
-data_path = "../../04_sql_analysis/data/inflation_by_region.csv"
+data_path = "data/inflation_by_region.csv"
 df = pd.read_csv(data_path)
 
 # Filter by year
